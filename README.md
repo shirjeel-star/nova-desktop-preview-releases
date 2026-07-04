@@ -1,0 +1,1 @@
+Nova Desktop — internal preview builds. Not the customer channel.
