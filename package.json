@@ -1,0 +1,7 @@
+{
+  "name": "titled-planning-worker",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node src/main.mjs" }
+}
